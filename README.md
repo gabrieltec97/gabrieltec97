@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Muito prazer, me chamo Gabriel Pereira.
 
-<!--
-**gabrieltec97/gabrieltec97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full-Stack focado em Laravel, PHP, MySQL e JavaScript.
 
-Here are some ideas to get you started:
+📍 Rio de Janeiro, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projetos em destaque:
+- [Sistema de pedidos em tempo real](https://github.com/gabrieltec97/portfolio-delivery)
+- [Sistema de autenticação com Laravel](https://github.com/gabrieltec97/Autentication)
+
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gabrieltec)
+
+
