@@ -21,6 +21,8 @@ Back-end:
 - PHP/ Laravel
 - MySql
 
+Também trabalho com o Wordpress onde costumo utilizar os plugins Elementor e Divi Builder.
+
 ## 🧠✏️ Em busca de excelência no desenvolvimento de software.
 
 Tenho como objetivo estar sempre à par das tecnologias atuais de desenvolvimento, para assim expandir minhas habilidades em outras tecnologias, com isso **no momento** estou estudando as seguintes tecnologias:
