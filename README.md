@@ -30,11 +30,11 @@ Também trabalho com o Wordpress onde costumo utilizar os plugins Elementor e Di
 
 Sou apaixonado por programação e então estou expandindo minhas habilidades, com isso **no momento** estou estudando as seguintes tecnologias:
 
-- VueJs
 - NodeJs
-- ReactJs
+- VueJs
 - ExpressJs
 - MongoDB
+- ReactJs
 
 ## 🚀 Projetos em Destaque:
 - [Sistema de pedidos em tempo real](https://github.com/gabrieltec97/portfolio-delivery)
