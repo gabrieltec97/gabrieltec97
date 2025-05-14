@@ -16,13 +16,13 @@ Front-end:
 - JavaScript
 - Jquery
 - Bootstrap
-- Ajax
 
 Back-end:
 
 - PHP
 - Laravel
 - MySql
+- Ajax
 
 Também trabalho com o Wordpress onde costumo utilizar os plugins Elementor e Divi Builder.
 
