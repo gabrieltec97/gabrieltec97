@@ -29,8 +29,8 @@ Back-end:
 Gerenciamento de conteúdo:
 
 - Wordpress
-- Elementor
-- Divi Builder
+  - Elementor
+  - Divi Builder
 
 ## 🧠✏️ O que ando aprendendo atualmente.
 
