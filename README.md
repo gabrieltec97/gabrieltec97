@@ -23,6 +23,8 @@ Back-end:
 - Laravel
 - MySql
 - Ajax
+- Node.Js
+- Express.Js
 
 Também trabalho com o Wordpress onde costumo utilizar os plugins Elementor e Divi Builder.
 
@@ -30,9 +32,7 @@ Também trabalho com o Wordpress onde costumo utilizar os plugins Elementor e Di
 
 Sou apaixonado por programação e então estou expandindo minhas habilidades, com isso **no momento** estou estudando as seguintes tecnologias:
 
-- Node.Js
 - Vue.Js
-- Express.Js
 - MongoDB
 - React.Js
 
