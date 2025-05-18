@@ -26,7 +26,11 @@ Back-end:
 - Node.Js
 - Express.Js
 
-Também trabalho com o Wordpress onde costumo utilizar os plugins Elementor e Divi Builder.
+Gerenciamento de conteúdo:
+
+- Wordpress
+- Elementor
+- Divi Builder
 
 ## 🧠✏️ O que ando aprendendo atualmente.
 
