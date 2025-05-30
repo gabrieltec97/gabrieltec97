@@ -16,6 +16,7 @@ Front-end:
 - JavaScript
 - Jquery
 - Bootstrap
+- Vue.Js
 
 Back-end:
 
