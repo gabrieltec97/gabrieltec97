@@ -13,7 +13,7 @@ Front-end:
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript (ES6)
 - Jquery
 - Bootstrap
 - Vue.Js
