@@ -43,7 +43,7 @@ Sou apaixonado por programação e então estou expandindo minhas habilidades, c
 
 
 ## 🚀 Projetos em Destaque:
-- [Sistema de Pedidos em Tempo Real - Laravel, Ajax, Bootstrap, Jquery](https://github.com/gabrieltec97/portfolio-delivery)
-- [Sistema de Registro de Entregas - Laravel, Vanilla Javascript, Bootstrap](https://github.com/gabrieltec97/E-Locker)
-- [Sistema de Ordem de Serviço e Estoque (Desenvolvimento ainda não iniciado)](https://github.com/gabrieltec97/SmartStock)
+- [Sistema de Pedidos em Tempo Real - Laravel](https://github.com/gabrieltec97/portfolio-delivery)
+- [Sistema de Registro de Entregas - Laravel](https://github.com/gabrieltec97/E-Locker)
+- [Sistema de Ordem de Serviço e Estoque - Javascript (Node) (Desenvolvimento ainda não iniciado)](https://github.com/gabrieltec97/SmartStock)
 
