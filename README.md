@@ -9,6 +9,8 @@
 
 ## 🛠️ Tecnologias e Ferramentas:
 
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,bootstrap,vue,wordpress)](https://skillicons.dev)
+
 Front-end:
 
 - HTML
@@ -23,7 +25,6 @@ Back-end:
 - PHP
 - Laravel
 - MySql
-- Ajax
 
 Gerenciamento de conteúdo:
 
