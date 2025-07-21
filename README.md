@@ -34,13 +34,15 @@ Sou apaixonado por programação e então estou expandindo minhas habilidades, c
 - MongoDB
 - React.Js
 
+## 🚀 Projetos em Destaque:
+- [E-Pedidos Delivery  - Laravel](https://github.com/gabrieltec97/portfolio-delivery)
+- [E-Locker Entregas - Laravel](https://github.com/gabrieltec97/E-Locker)
+- [Smart Desk - Javascript (Node) (Desenvolvimento ainda não iniciado)](https://github.com/gabrieltec97/SmartDesk)
+
 ## 📊 Minhas estatísticas:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=gabrieltec97&show_icons=true&hide=prs&theme=dark)
 ![My Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltec97&layout=compact&langs_count=6&theme=dark)
 
 
-## 🚀 Projetos em Destaque:
-- [E-Pedidos Delivery  - Laravel](https://github.com/gabrieltec97/portfolio-delivery)
-- [E-Locker Entregas - Laravel](https://github.com/gabrieltec97/E-Locker)
-- [Smart Desk - Javascript (Node) (Desenvolvimento ainda não iniciado)](https://github.com/gabrieltec97/SmartDesk)
+
 
