@@ -9,20 +9,15 @@
 
 ## 🛠️ Tecnologias e Ferramentas:
 
-Front-End:
-
+- PHP
+- Laravel
+- MySql
 - HTML
 - CSS
 - JavaScript (ES6)
 - Jquery
 - Bootstrap
 - Vue.Js
-
-Back-End:
-
-- PHP
-- Laravel
-- MySql
 
 Gerenciamento de conteúdo:
 - Wordpress
