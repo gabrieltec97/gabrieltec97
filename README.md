@@ -9,17 +9,39 @@
 
 ## 🛠️ Tecnologias e Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,bootstrap,vue,wordpress)](https://skillicons.dev)
+Front-End:
 
-## 📊 Minhas estatísticas:
-![My Stats](https://github-readme-stats.vercel.app/api?username=gabrieltec97&show_icons=true&hide=prs&theme=dark)
-![My Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltec97&layout=compact&langs_count=6&theme=dark)
+- HTML
+- CSS
+- JavaScript (ES6)
+- Jquery
+- Bootstrap
+- Vue.Js
 
+Back-End:
+
+- PHP
+- Laravel
+- MySql
+
+Gerenciamento de conteúdo:
+- Wordpress
+  - Elementor Builder
+  - Divi Builder
+ 
 ## 🧠 O que ando aprendendo atualmente:
 
 Sou apaixonado por programação e então estou expandindo minhas habilidades, com isso **no momento** estou estudando as seguintes tecnologias **Javascript**:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,vue,mongodb,react)](https://skillicons.dev)
+- Node.Js
+- Express.Js
+- Vue.Js
+- MongoDB
+- React.Js
+
+## 📊 Minhas estatísticas:
+![My Stats](https://github-readme-stats.vercel.app/api?username=gabrieltec97&show_icons=true&hide=prs&theme=dark)
+![My Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltec97&layout=compact&langs_count=6&theme=dark)
 
 
 ## 🚀 Projetos em Destaque:
