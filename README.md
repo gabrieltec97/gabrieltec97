@@ -11,36 +11,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,bootstrap,vue,wordpress)](https://skillicons.dev)
 
-Front-end:
-
-- HTML
-- CSS
-- JavaScript (ES6)
-- Jquery
-- Bootstrap
-- Vue.Js
-
-Back-end:
-
-- PHP
-- Laravel
-- MySql
-
-Gerenciamento de conteúdo:
-
-- Wordpress
-  - Elementor
-  - Divi Builder
-
 ## 🧠✏️ O que ando aprendendo atualmente.
 
 Sou apaixonado por programação e então estou expandindo minhas habilidades, com isso **no momento** estou estudando as seguintes tecnologias:
 
-- Node.Js
-- Express.Js
-- Vue.Js
-- MongoDB
-- React.Js
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,vue,mongodb,react)](https://skillicons.dev)
 
 
 ## 🚀 Projetos em Destaque:
