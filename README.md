@@ -11,11 +11,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,bootstrap,vue,wordpress)](https://skillicons.dev)
 
-## 🧠✏️ O que ando aprendendo atualmente.
+## 🧠 O que ando aprendendo atualmente:
 
-Sou apaixonado por programação e então estou expandindo minhas habilidades, com isso **no momento** estou estudando as seguintes tecnologias:
+Sou apaixonado por programação e então estou expandindo minhas habilidades, com isso **no momento** estou estudando as seguintes tecnologias **Javascript**:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,vue,mongodb,react)](https://skillicons.dev)
+
+## 📊 Estatísticas sobre mim:
+![My Stats](https://github-readme-stats.vercel.app/api?username=gabrieltec97&show_icons=true&theme=dark)
+![My Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltec97&layout=compact&langs_count=8&theme=dark)
 
 
 ## 🚀 Projetos em Destaque:
