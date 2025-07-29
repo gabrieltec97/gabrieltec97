@@ -1,6 +1,6 @@
 ## 👋 Muito prazer, me chamo Gabriel Pereira.
 
-💻 Desenvolvedor Full-Stack PHP/Laravel/Javascript
+💻 Desenvolvedor Full-Stack PHP/Laravel/Javascript/Node.Js
 
 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gabrieltec)
 
