@@ -39,7 +39,7 @@ Sou apaixonado por programação e então estou expandindo minhas habilidades, c
 
 [E-Locker Entregas - Laravel](https://github.com/gabrieltec97/E-Locker)
 
-[Smart Desk - Javascript (Node) (Desenvolvimento ainda não iniciado)](https://github.com/gabrieltec97/SmartDesk)
+[Smart Desk - Laravel - (Em desenvolvimento)](https://github.com/gabrieltec97/SmartDesk)
 
 ## 📊 Minhas estatísticas:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=gabrieltec97&show_icons=true&hide=prs&theme=dark)
