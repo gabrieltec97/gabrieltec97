@@ -12,6 +12,7 @@
 - PHP
 - Laravel
 - MySql
+- MongoDb
 - HTML
 - CSS
 - JavaScript
