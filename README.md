@@ -14,10 +14,9 @@
 - MySql
 - HTML
 - CSS
-- JavaScript (ES6)
+- JavaScript
 - Jquery
 - Bootstrap
-- Vue.Js
 
 Gerenciamento de conteúdo:
 - Wordpress
@@ -28,11 +27,9 @@ Gerenciamento de conteúdo:
 
 Sou apaixonado por programação e então estou expandindo minhas habilidades, com isso **no momento** estou estudando as seguintes tecnologias **Javascript**:
 
-- Node.Js
-- Express.Js
-- Vue.Js
-- MongoDB
-- React.Js
+- Python
+- Django
+- FastApi
 
 ## 🚀 Projetos em Destaque:
 [E-Pedidos Delivery  - Laravel](https://github.com/gabrieltec97/portfolio-delivery)
