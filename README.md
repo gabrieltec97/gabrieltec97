@@ -1,4 +1,4 @@
-## 👋 Muito prazer, me chamo Gabriel Pereira.
+## 👋 Muito prazer, Gabriel Pereira.
 
 💻 Desenvolvedor Full-Stack PHP/Laravel/Javascript
 
