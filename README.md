@@ -39,10 +39,6 @@ Sou apaixonado por programação e então estou expandindo minhas habilidades, c
 
 [Smart Desk - Laravel (Em desenvolvimento)](https://github.com/gabrieltec97/SmartDesk)
 
-## 📊 Minhas estatísticas:
-![My Stats](https://github-readme-stats.vercel.app/api?username=gabrieltec97&show_icons=true&hide=prs&theme=dark)
-![My Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltec97&layout=compact&langs_count=6&theme=dark)
-
 
 
 
