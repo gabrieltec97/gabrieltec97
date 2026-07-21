@@ -26,7 +26,7 @@ Gerenciamento de conteúdo:
  
 ## 🧠 O que ando aprendendo atualmente:
 
-Sou apaixonado por programação e então estou expandindo minhas habilidades, com isso **no momento** estou estudando as seguintes tecnologias **Javascript**:
+Sou apaixonado por programação e então estou expandindo minhas habilidades, com isso **no momento** estou estudando as seguintes tecnologias:
 
 - Python
 - Django
