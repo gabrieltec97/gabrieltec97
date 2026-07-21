@@ -39,6 +39,7 @@ Sou apaixonado por programação e então estou expandindo minhas habilidades, c
 
 [Smart Desk - Laravel](https://github.com/gabrieltec97/SmartDesk)
 
+[Tech Catalog - Laravel](https://github.com/gabrieltec97/techCatalog) - Em desenvolvimento
 
 
 
