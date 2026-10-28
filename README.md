@@ -33,13 +33,15 @@ Sou apaixonado por programação e então estou expandindo minhas habilidades, c
 - FastApi
 
 ## 🚀 Projetos em Destaque:
+[AI Document Intelligence - Laravel](https://github.com/gabrieltec97/AI-Document-Intelligence) - Em desenvolvimento
+
 [E-Pedidos Delivery  - Laravel](https://github.com/gabrieltec97/portfolio-delivery)
 
 [E-Locker Entregas - Laravel](https://github.com/gabrieltec97/E-Locker)
 
 [Smart Desk - Laravel](https://github.com/gabrieltec97/SmartDesk)
 
-[Tech Catalog - Laravel](https://github.com/gabrieltec97/techCatalog) - Em desenvolvimento
+
 
 
 
