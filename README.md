@@ -9,7 +9,6 @@ Também trabalho com Docker para ambientes de desenvolvimento e desenvolvo proje
 
 - 💼 Aberto a oportunidades como Desenvolvedor PHP, Laravel, Backend e Full-Stack
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gabrieltec)
-- 🐙 [GitHub](https://github.com/gabrieltec97)
 
 ---
 
