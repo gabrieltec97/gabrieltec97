@@ -12,7 +12,7 @@ Também trabalho com Docker para ambientes de desenvolvimento e desenvolvo proje
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias, ferramentas e meus projetos
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
