@@ -1,151 +1,151 @@
+# Gabriel Pereira
 
-# 👋 Olá! Sou Gabriel Pereira
+### Desenvolvedor Full-Stack | PHP, Laravel e JavaScript
 
-### 💻 Desenvolvedor Full-Stack | PHP • Laravel • JavaScript
+Desenvolvedor de software com experiência no desenvolvimento, manutenção e evolução de aplicações web. Atuação com PHP, Laravel, JavaScript, Vue.js, bancos de dados relacionais e não relacionais, APIs RESTful e integração entre sistemas.
 
-Sou desenvolvedor de software com foco na criação, manutenção e evolução de aplicações web. Tenho experiência com PHP, Laravel, bancos de dados, APIs RESTful, microsserviços e integração entre sistemas.
+Experiência com arquitetura MVC, microsserviços, Docker e desenvolvimento de soluções voltadas à automação de processos e resolução de problemas de negócio.
 
-Também trabalho com Docker para ambientes de desenvolvimento e desenvolvo projetos que exploram o uso de Inteligência Artificial para automatizar processos e agregar valor às aplicações.
-
-- 💼 Aberto a oportunidades como Desenvolvedor PHP, Laravel, Backend e Full-Stack
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gabrieltec)
+- **Área de interesse:** Desenvolvimento Backend e Full-Stack.
+- **Oportunidades:** PHP, Laravel e Desenvolvimento Web.
+- **LinkedIn:** [linkedin.com/in/gabrieltec](https://www.linkedin.com/in/gabrieltec)
 
 ---
 
-## 🛠️ Tecnologias, ferramentas e meus projetos
+## Tecnologias e Ferramentas
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![APIs RESTful](https://img.shields.io/badge/APIs_RESTful-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-- Programação Orientada a Objetos (POO)
-- Arquitetura MVC
-- Desenvolvimento e integração de APIs RESTful
-- Microsserviços e integração entre sistemas
+- Programação Orientada a Objetos (POO).
+- Arquitetura MVC.
+- Desenvolvimento e integração de APIs RESTful.
+- Microsserviços e integração entre sistemas.
+- Regras de negócio e processamento de dados.
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-- Criação do frontend completo da aplicação
-- Integração do frontend com o backend
+- Desenvolvimento de interfaces e aplicações web.
+- Integração entre frontend e backend.
+- Desenvolvimento de interfaces responsivas.
+- Integração de aplicações Laravel com Vue.js e Inertia.js.
 
 ### Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- Modelagem e manipulação de dados
-- Consultas SQL e integração com aplicações
+- Modelagem e manipulação de dados.
+- Consultas SQL.
+- Integração de bancos de dados com aplicações.
 
 ### DevOps e Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-- Docker e ambientes conteinerizados
-- Composer e gerenciamento de dependências
-- Depuração e manutenção de aplicações
+- Docker e ambientes conteinerizados.
+- Composer e gerenciamento de dependências.
+- Git e controle de versão.
+- Depuração e manutenção de aplicações.
 
 ### Testes e Qualidade de Software
 
-- Testes de software
-- Validação de funcionalidades e regras de negócio
-- Identificação e correção de falhas
-- Código organizado e de fácil manutenção
+- Testes de software e validação de funcionalidades.
+- Identificação e correção de falhas.
+- Validação de regras de negócio.
+- Organização e manutenção de código.
 
 ### Inteligência Artificial
 
-- Integração de recursos de IA em aplicações
-- Automação de processos com Inteligência Artificial
-- Processamento e extração de informações de documentos
+- Integração de recursos de IA em aplicações.
+- Automação de processos.
+- Processamento e extração de informações de documentos.
+- Integração com modelos de linguagem.
 
 ### CMS e Desenvolvimento de Sites
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 
-- WordPress
-- Elementor
-- Divi Builder
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🤖 AI Document Intelligence
-**Laravel • OCR • Inteligência Artificial • Processamento de Documentos**
-
-Projeto em desenvolvimento voltado à automatização do processamento de documentos, incluindo extração de texto por OCR e preparação de funcionalidades para análise inteligente de informações.
-
-Este tem dois módulos: Um de leitura e extração de dados e outro para leitura e resumo de documentos anexados.
-
-🔗 [Acessar repositório](https://github.com/gabrieltec97/AI-Document-Intelligence)
-
-### 🖥️ SmartDesk
-**Laravel • Desenvolvimento de Aplicações Web**
-
-Sistema real, implementado em uma empresa de portaria remota que trouxe organização e otimização de 60% do tempo na organização administrativa e de estoque da empresa.
-
-🔗 [Acessar repositório](https://github.com/gabrieltec97/SmartDesk)
-
-### 📦 E-Pedidos Delivery
-**Laravel • Aplicações Web • Gestão de Pedidos**
-
-Sistema completo de delivery que dispõe de um dashboard com informações de venda, estoque e clientes.
-
-🔗 [Acessar repositório](https://github.com/gabrieltec97/portfolio-delivery)
-
-### 🔐 E-Locker Entregas
-**Laravel • Sistemas Web • Gestão de Entregas**
-
-Projeto voltado à gestão de entregas e encomendas, com foco na organização de processos operacionais por meio de uma aplicação web.
-
-🔗 [Acessar repositório](https://github.com/gabrieltec97/E-Locker)
-
+- WordPress.
+- Elementor.
+- Divi Builder.
 
 ---
 
-## 📚 O que ando explorando ultimamente
+## Projetos em Destaque
 
-Além de estar aprendendo muito sobre como utilizar inteligência artificial com PHP, também tenho admiração por Python, então no tempo livre...
+### AI Document Intelligence
 
-Atualmente, estou estudando:
+**Laravel | OCR | Inteligência Artificial | Processamento de Documentos**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+Projeto em desenvolvimento para automatização do processamento e análise de documentos.
 
-Também busco aprofundar meus conhecimentos em:
+A aplicação contempla dois módulos principais: extração e leitura de dados por OCR e análise inteligente de documentos, incluindo geração de resumos e interpretação de informações.
 
-- Inteligência Artificial aplicada ao desenvolvimento de software
-- Integração de modelos de linguagem (LLMs)
-- Arquitetura de software e padrões de projeto
-- Testes automatizados
-- Processamento assíncrono e cache
-- Integração e entrega contínuas (CI/CD)
+[Repositório no GitHub](https://github.com/gabrieltec97/AI-Document-Intelligence)
+
+### SmartDesk
+
+**Laravel | Gestão Administrativa | Automação de Processos**
+
+Sistema desenvolvido e implementado em uma empresa de portaria remota, com foco na organização de processos administrativos e de estoque.
+
+A solução proporcionou uma redução de aproximadamente 60% do tempo dedicado às atividades de organização administrativa e de estoque.
+
+[Repositório no GitHub](https://github.com/gabrieltec97/SmartDesk)
+
+### E-Pedidos Delivery
+
+**Laravel | Gestão de Pedidos | Aplicações Web**
+
+Sistema de delivery com painel administrativo para gerenciamento de pedidos, vendas, estoque e clientes.
+
+[Repositório no GitHub](https://github.com/gabrieltec97/portfolio-delivery)
+
+### E-Locker Entregas
+
+**Laravel | Gestão de Entregas | Aplicações Web**
+
+Sistema voltado à gestão de entregas e encomendas, com foco na organização e no acompanhamento de processos operacionais.
+
+[Repositório no GitHub](https://github.com/gabrieltec97/E-Locker)
 
 ---
 
-## 🎯 Como posso contribuir
+## Estudos e Aperfeiçoamento
 
-- Desenvolvimento e manutenção de aplicações web com PHP e Laravel.
-- Criação e integração de APIs RESTful.
-- Integração entre sistemas e serviços externos.
-- Modelagem, consultas e manipulação de bancos de dados.
-- Utilização de Docker para padronização de ambientes de desenvolvimento.
-- Testes e validação de funcionalidades.
-- Identificação e correção de problemas em aplicações existentes.
-- Desenvolvimento de soluções para automatizar processos e atender a necessidades reais de negócio.
+Atualmente, estou aprofundando meus conhecimentos em Python e no desenvolvimento de aplicações e serviços utilizando seu ecossistema.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+Também busco aprimorar conhecimentos em:
+
+- Inteligência Artificial aplicada ao desenvolvimento de software.
+- Modelos de linguagem (LLMs).
+- Arquitetura de software e padrões de projeto.
+- Testes automatizados.
+- Processamento assíncrono e cache.
+- Integração e entrega contínuas (CI/CD).
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Contato
 
-Estou em busca de novos desafios profissionais nos quais eu possa contribuir com minhas habilidades em desenvolvimento de software, colaborar com equipes técnicas e continuar evoluindo profissionalmente.
+Aberto a oportunidades e novos desafios profissionais na área de desenvolvimento de software.
 
-Tenho interesse em projetos que valorizem a qualidade do código, a resolução de problemas, a colaboração e a melhoria contínua.
+Tenho interesse em contribuir com o desenvolvimento de aplicações, integração de sistemas e construção de soluções que atendam a necessidades reais de negócio.
 
-📫 [LinkedIn](https://www.linkedin.com/in/gabrieltec)
+**LinkedIn:** [linkedin.com/in/gabrieltec](https://www.linkedin.com/in/gabrieltec)
+
+**GitHub:** [github.com/gabrieltec97](https://github.com/gabrieltec97)
